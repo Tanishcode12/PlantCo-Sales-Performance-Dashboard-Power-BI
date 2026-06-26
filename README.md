@@ -2,6 +2,7 @@
 Built an interactive Power BI dashboard to analyze sales, profitability, and customer performance using Power Query, DAX, and a star schema data model. Features dynamic KPI switching, YTD vs PYTD analysis, drill-down reports, conditional formatting, and customer segmentation for business insights.
 ## Dashboard Preview
 <img width="671" height="375" alt="image" src="https://github.com/user-attachments/assets/1b527408-1151-4ff1-9df7-26b0a9d26bfb"/>
+
 ## Project Objectives
 The goal of this project was to simulate a real-world business reporting solution by:
 - Importing and transforming raw Excel data
